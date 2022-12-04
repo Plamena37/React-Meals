@@ -11,6 +11,7 @@
 > - CSS modules
 > - conditional rendering
 > - simple form validation
+> - managing loading state on fetching and sending data from the database
 
 ### Features:
 > - add items to cart
