@@ -1,6 +1,6 @@
 # ReactMeals
 
-# Welcome to [ReactMeals](https://.netlify.app/) 🍜
+# Welcome to ReactMeals 🍜
 
 🫒 Simple food order app build with React and Firebase
 
